@@ -10,7 +10,6 @@ class Solution:
             else:
                 t=p
             p+=1
-            
         return maxp
             
             
